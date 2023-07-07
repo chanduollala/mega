@@ -18,5 +18,10 @@
     "id": 104,
     "title": "Basic Electrical Engineering",
     "abb": "BEE"
+  },
+  {
+    "id": 106,
+    "title": "Chemistry",
+    "abb": "CHEM"
   }
 ]
