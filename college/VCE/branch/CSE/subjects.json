@@ -1,24 +1,49 @@
 [
   {
-    "id": 1,
+    "id": 101,
+    "title": "Semi Conductor Physics",
+    "abb": "SPOD"
+  },
+  {
+    "id": 102,
+    "title": "Basic Engineering Mechanics",
+    "abb": "BEM"
+  },
+  {
+    "id": 103,
+    "title": "Engineering Drawing 1",
+    "abb": "ED1"
+  },
+  {
+    "id": 104,
+    "title": "Basic Electrical Engineering",
+    "abb": "BEE"
+  },
+  {
+    "id": 106,
+    "title": "Chemistry",
+    "abb": "CHEM"
+  },
+  {
+    "id": 501,
     "title": "Internet of Things",
     "abb": "IOT",
     "sem": 5
   },
   {
-    "id": 1,
+    "id": 701,
     "title": "Neural Networks",
     "abb": "NN",
     "sem": 7
   },
   {
-    "id": 1,
+    "id": 401,
     "title": "Computer Networks",
     "abb": "CN",
     "sem": 4
   },
   {
-    "id": 1,
+    "id": 301,
     "title": "Data Structures",
     "abb": "DS",
     "sem": 3
