@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "title": "Semi Conductor Physics",
+    "abb": "SPOD"
+  },
+  {
+    "id": 102,
+    "title": "Basic Engineering Mechanics",
+    "abb": "BEM"
+  },
+  {
+    "id": 103,
+    "title": "Engineering Drawing 1",
+    "abb": "ED1"
+  },
+  {
+    "id": 104,
+    "title": "Basic Electrical Engineering",
+    "abb": "BEE"
+  }
+]

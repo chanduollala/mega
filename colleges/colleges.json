@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "name" : "Vasavi College of Engineering",
+    "abbr": "VCE",
+    "address" : {
+      "area" : "Ibrahimbagh",
+      "city" : "Hyderabad",
+      "pincode" : "500031"
+    }
+  },
+  {
+    "id" : 2,
+    "name" : "Chaitanya Bharathi Institute of Technology",
+    "abbr": "CBIT",
+    "address" : {
+      "area" : "Ibrahimbagh",
+      "city" : "Hyderabad",
+      "pincode" : "500031"
+    }
+  }
+]

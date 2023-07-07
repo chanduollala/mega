@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Internet of Things",
+    "abb": "IOT",
+    "sem": 5
+  },
+  {
+    "id": 1,
+    "title": "Neural Networks",
+    "abb": "NN",
+    "sem": 7
+  },
+  {
+    "id": 1,
+    "title": "Computer Networks",
+    "abb": "CN",
+    "sem": 4
+  },
+  {
+    "id": 1,
+    "title": "Data Structures",
+    "abb": "DS",
+    "sem": 3
+  }
+]
