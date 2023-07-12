@@ -1,5 +1,22 @@
 [
   {
-    "id": 100,
+    "id": 101,
+    "title" : "Computer Science and Engineering",
+    "abbr": "CSE"
+  },
+  {
+    "id": 102,
+    "title" : "Electronics and Communication Engineering",
+    "abbr": "ECE"
+  },
+  {
+    "id": 103,
+    "title" : "Information Technology",
+    "abbr": "IT"
+  },
+  {
+    "id": 104,
+    "title" : "Electrical and Electronics Engineering",
+    "abbr": "EEE"
   }
 ]

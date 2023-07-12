@@ -1,0 +1,12 @@
+[
+  {
+    "id" : 1,
+    "name" : "Vasavi College of Engineering",
+    "abbr": "VCE"
+  },
+  {
+    "id" : 2,
+    "name" : "Chaitanya Bharathi Institute of Technology",
+    "abbr": "CBIT"
+  }
+]
